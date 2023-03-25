@@ -1,0 +1,3 @@
+Full strength size: 6
+Attendees size    : 4
+Absentees         : {'He haw', 'Ming Ming'}
